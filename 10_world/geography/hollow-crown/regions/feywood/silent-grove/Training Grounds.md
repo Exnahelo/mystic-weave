@@ -46,7 +46,7 @@ Specific training spaces within the Grounds:
 
 ## Instructors
 
-Training is delivered by senior [[Heartwarden]]s rotating through the Grounds on multi-year instructor postings, coordinated by the [[Heartwarden]] Captain. Currently the Captaincy is interim, with [[Lethariel Heartwood]] in Captain-emeritus standing — she resumes active Captaincy when the current Proving candidate (her granddaughter [[Sylvara Heartwood]]) departs for the Proving.
+Training is delivered by senior [[Heartwarden]]s rotating through the Grounds on multi-year instructor postings, coordinated by the [[Heartwarden]] Captain. Currently the Captaincy is interim, with [[Lethariel Heartwood]] in Captain-emeritus standing — she resumes active Captaincy when the current Proving candidate (her daughter [[Sylvara Heartwood]]) departs for the Proving.
 
 Druidic instruction comes from [[Silent Grove]] druids — typically the Elder Druid and specific senior druids with [[Heartwarden]]-adjacent experience.
 

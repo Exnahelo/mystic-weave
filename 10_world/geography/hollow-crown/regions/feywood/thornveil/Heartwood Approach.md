@@ -2,7 +2,7 @@
 type: district
 status: working
 aliases: [the Approach]
-tags: [drakenvale, feywood, thornveil, heartwood-approach, council-seat, ancient-groves, noble-residence, heartwood-adjacent]
+tags: [drakenvale, feywood, thornveil, heartwood-approach, council-seat, ancient-groves, great-house-residence, heartwood-adjacent]
 vault_id: heartwood-approach
 region: "[[Hollow Crown]]"
 parent_location: "[[Thornveil]]"
@@ -10,7 +10,7 @@ parent_location: "[[Thornveil]]"
 
 # The Heartwood Approach
 
-The city's innermost ring. The [[Heartwood]] at its center, the [[Council of Elders]] at its side, the oldest families in residence around both. The register here is quieter and more weighted than anywhere else in [[Thornveil]].
+[[Thornveil]]'s innermost ring — the district immediately around the [[Heartwood]] tree itself, whose canopy reaches over much of the city from this center. The [[Council of Elders]]' chambers are here. The great houses of the [[Feywood]] keep their estates here. The register is quieter and more weighted than anywhere else in [[Thornveil]].
 
 ## Scene texture
 
@@ -26,21 +26,17 @@ The [[Council of Elders]]' primary chambers occupy a grove near the district's h
 
 Councilors enter through specific paths; sanctioned visitors through others; casual traffic does not enter at all. Council deliberations are not public in the realm sense but are not private in any paranoid sense either; the Council's work is visible at the pace and register appropriate to it.
 
-## House Heartwood's Thornveil seat
+## The great-house estates
 
-[[House Heartwood]]'s political-ceremonial seat is canonically here in the Approach — a substantial grove-compound serving as the house's civic center in [[Thornveil]]. Council-facing business, formal observances (including third-moon rites and the oath-marking events House Heartwood hosts for its members and witnesses), and the maintenance of Oathvine at the house's [[Thornveil]] oath-plot all happen here. Family members reside at the Thornveil seat when their work requires sustained presence in the civic-political register.
+The great houses of the [[Feywood]] hold their [[Thornveil]] estates here in the Approach. This is where their Council-facing civic life happens, where formal observances occur, and where family members reside when sustained presence in the political-ceremonial register is required. Each house's estate is a grown complex of several dwellings, working halls, and garden spaces, held by the family across the relevant span of elven generations.
 
-**The Thornveil seat is distinct from [[Heartwood Estate]]** in the Outer Old-Growth Wild, which is the ancestral woodland seat of wild-heritage and proving-wild tradition where [[Lethariel Heartwood]] and [[Sylvara Heartwood]] currently reside. The two seats serve **complementary functions**: the Estate carries the house's wild-connected family life; the Thornveil seat carries its political-ceremonial authority.
+The architectural idiom varies by house — each carries its own aesthetic tradition — but all work within the district's shared register of restraint, age, and integration. None use dressed stone in the realm manner; none build out of nothing. The differences between estates are visible to elven eyes and cherished by the families who maintain them.
 
-The Thornveil seat is not a separate location node; treat it as a scene-destination within this district.
+**Detail on each house — its tradition, lineage, ethos, and senior figures — lives in the house's own entity note rather than here.** The Approach is the *district*; house information lives with the house.
 
-## Other noble residences
+[[House Heartwood]] is one of the great houses with an estate in the Approach. The house's wild-heritage seat is at the [[Heartwood Estate]] in the Outer Old-Growth Wild; its Approach estate carries the political-ceremonial register and Council-facing civic life. Other great houses of the [[Feywood]] — including [[House Vaelaryn]], [[House Silverbow]], [[House Thornmere]], [[House Dawnvale]], [[House Greybranch]], [[House Ironsap]], and others — likewise hold estates here.
 
-Other noble houses similarly hold Approach residences of varying scale and function. Resident families include those whose civic work most closely involves the [[Council of Elders|Council]]'s business and the [[Heartwood]]'s direct stewardship.
-
-Each noble residence is a grown complex of several dwellings, working halls, and garden spaces, held by the family across the relevant span of elven generations. The architectural idiom varies slightly by house — each family carries its own aesthetic tradition — but all work within the district's shared register of restraint, age, and integration.
-
-Visitors received at a noble residence in the Approach are rarely casual. **This is where realm diplomatic business with specific houses occurs when it requires that level of weight.**
+Visitors received at a great-house estate in the Approach are rarely casual. **This is where realm diplomatic business with specific houses occurs when it requires that level of weight.**
 
 ## Approach to the Heartwood
 
@@ -54,7 +50,7 @@ The Approach receives three kinds of visitors regularly:
 
 - **Council business.** Diplomatic envoys, house representatives, occasional realm-side officials arriving for matters requiring [[Council of Elders|Council]] attention.
 - **Heartwood business.** [[Heartwarden]] on Watch rotations, druidic attendance, ceremonial observances, exceptional events.
-- **House business.** Visits to noble residences for family or civic matters. These are typically conducted discreetly.
+- **House business.** Visits to great-house estates for family or civic matters. These are typically conducted discreetly.
 
 Realm visitors do not routinely enter the Approach. Those who do are accompanied by elven hosts at all times and conduct their business efficiently.
 

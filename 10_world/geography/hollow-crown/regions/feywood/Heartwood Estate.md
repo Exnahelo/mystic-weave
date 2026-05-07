@@ -10,9 +10,9 @@ parent_region: "[[Feywood]]"
 
 # Heartwood Estate
 
-The ancestral woodland seat of [[House Heartwood]]. Ancient, integrated, small by human measure and substantial by elven. The Estate is **one of two substantial seats** the house maintains — the wild-heritage residence where the family's deepest roots sit and where the proving-wild tradition operates. The house's political-ceremonial authority is exercised at its [[Thornveil]] seat in the [[Heartwood Approach]] district; the Estate is where its wild-connected family life resides.
+The ancestral woodland seat of [[House Heartwood]]. Ancient, integrated, small by human measure and substantial by elven. The Estate is **one of two seats** the house maintains — the wild-heritage residence where the family's deepest roots sit and where the proving-wild tradition operates. The house's political-ceremonial authority is exercised at its estate in the [[Heartwood Approach]] district of [[Thornveil]]; this Estate is where its wild-connected family life resides.
 
-[[Lethariel Heartwood]] is in residence. The **Heartwood bow** — cut from a branch the [[Heartwood]] dropped to her during the [[Discordant War]] — is here with her.
+[[Lethariel Heartwood]] is in residence with her daughter [[Sylvara Heartwood]]. The **Heartwood bow** — cut from a branch the [[Heartwood]] dropped to her during the [[Discordant War]] — is here.
 
 ## Scene texture
 
@@ -54,8 +54,8 @@ The Estate supports both phases. The working hall includes a tanning-and-process
 
 The Estate's resident population sits in the **forty-to-seventy range**, varying with who is in residence:
 
-- **Immediate family:** [[Lethariel Heartwood]] (Captain-emeritus, currently between active rotations); [[Sylvara Heartwood]], the current Proving candidate, in residence through the preparation phase ahead of her Proving at 90, with her bonded moonthorn wolf companion **Dusk**; other Heartwood blood relatives currently in residence.
-- **In-laws and extended house:** [[Caelthir Vaelaryn]] visits the Estate occasionally in his role as father of the current generation's Heartwood children, though his own primary residence is at [[House Vaelaryn]]'s estate. Other in-laws and cousin figures move through on their own patterns.
+- **Immediate family:** [[Lethariel Heartwood]] (Captain-emeritus, currently between active rotations) and her daughter [[Sylvara Heartwood]], the current [[House Heartwood]] Proving candidate, in residence through the preparation phase ahead of her Proving at 90, with her bonded moonthorn wolf companion **Dusk**. Other Heartwood blood relatives currently in residence as the household pattern requires.
+- **In-laws and extended house:** [[Caelthir Vaelaryn]], Sylvara's father, visits the Estate occasionally; his own primary residence is at [[House Vaelaryn]]'s estate in [[Thornveil]]. Other in-laws and cousin figures move through on their own patterns.
 - **Bonded staff:** long-resident families who have served the house across generations. Not servants in the realm sense; part of the household in the deeper elven way, with their own dwellings in the Estate cluster.
 - **Occasional non-elven residents:** [[House Heartwood]]'s non-elf integration is lower than [[House Vaelaryn]]'s but present. Long-term non-elven residents who have earned a place at the Estate live in the cluster alongside bonded families.
 
@@ -73,10 +73,10 @@ The Estate is **anti-monumental by design**. No banners, no heraldic display, no
 
 ## NPCs
 
-- [[Lethariel Heartwood]] — in residence; Captain-emeritus standing; ~300-600 years old; [[Discordant War]] commander; direct witness to [[The Platinum Warden]]'s sacrifice. Resumes active Captaincy when [[Sylvara Heartwood|Sylvara]] departs for the Proving.
-- [[Sylvara Heartwood]] — current [[House Heartwood]] Proving candidate; in the preparation phase at the Estate ahead of her Proving at 90. *Player character; current state tracked in the character system rather than world data.*
+- [[Lethariel Heartwood]] — in residence; mother of [[Sylvara Heartwood|Sylvara]]; Captain-emeritus standing; ~300-600 years old; [[Discordant War]] commander; direct witness to [[The Platinum Warden]]'s sacrifice. Resumes active Captaincy when [[Sylvara Heartwood|Sylvara]] departs for the Proving.
+- [[Sylvara Heartwood]] — daughter of [[Lethariel Heartwood|Lethariel]] and [[Caelthir Vaelaryn|Caelthir]]; current [[House Heartwood]] Proving candidate; in the preparation phase at the Estate ahead of her Proving at 90. *Player character; current state tracked in the character system rather than world data.*
 - **Dusk** — Sylvara's bonded moonthorn wolf companion. Travels with Sylvara; presence in scenes follows hers.
-- [[Caelthir Vaelaryn]] — in-law; father of Sylvara and her siblings; visits the Estate but maintains primary residence at [[House Vaelaryn]]'s estate.
+- [[Caelthir Vaelaryn]] — Sylvara's father; visits the Estate but maintains primary residence at [[House Vaelaryn]]'s estate.
 
 ## Connected nodes
 

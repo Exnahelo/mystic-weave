@@ -2,7 +2,7 @@
 type: district
 status: working
 aliases: [the Groves]
-tags: [drakenvale, feywood, thornveil, noble-groves, noble-estates, greenshield-headquarters, old-growth-residential, architectural-variety, family-tradition]
+tags: [drakenvale, feywood, thornveil, noble-groves, minor-house-estates, greenshield-headquarters, old-growth-residential, architectural-variety, family-tradition]
 vault_id: noble-groves
 region: "[[Hollow Crown]]"
 parent_location: "[[Thornveil]]"
@@ -10,7 +10,11 @@ parent_location: "[[Thornveil]]"
 
 # The Noble Groves
 
-A ring district without hard boundaries. Noble family estates fold into mature old-growth; moving through the Groves is moving through trees of extraordinary age and through architectural variety that spans distinct family traditions. **Visitors notice how much the district does not announce itself.**
+A ring district without hard boundaries. The minor noble houses of the [[Feywood]] hold their [[Thornveil]] estates here, their groves folding into mature old-growth and their architectural traditions visible across the district. **Visitors notice how much the district does not announce itself.**
+
+## Distinction from the Approach
+
+The great houses of the [[Feywood]] keep their [[Thornveil]] estates in the [[Heartwood Approach]] — the innermost ring around the [[Heartwood]] tree itself. The Noble Groves is the *next ring out*, where the **minor houses** maintain their estates. Several dozen minor houses hold groves here, each with its own specialization and tradition. The distinction between great and minor is one of public ethos, civic standing, and historical depth rather than wealth or architectural scale; some Noble Groves estates rival great-house estates in size and beauty.
 
 ## Scene texture
 
@@ -20,25 +24,15 @@ Paths between estates are worn and sufficient, not formal. **No paved walks, no 
 
 The architectural variety is the district's signature. One estate might work in tall tree-integrated structures climbing high into the canopy; the neighboring estate might spread broadly across lower terrain, incorporating specific trees as central pillars; a third might maintain a deeply traditional style reaching back to elven eras that predate any realm-side record. **All work within a shared organic idiom — none use dressed stone in the realm manner, none build out of nothing — but the differences between them are visible, distinctive, and cherished by the families who maintain them.**
 
-## The seven major elven houses
+## Grove-holding
 
-Several dozen noble families hold recognized groves here. The **seven major houses** of the [[Feywood]] — those with the most substantial public ethos and civic standing — are:
+The system of grove-holding is **fluid over elven timescales**. Families rise, decline, reform, occasionally lose their grove, occasionally receive one through [[Council of Elders|Council]] decision. The current configuration reflects roughly the last few centuries of this process. Movement between minor and great-house standing is rare but possible; a minor house whose ethos and civic standing develop over centuries can in principle be elevated, just as a great house can decline.
 
-- **[[House Heartwood]]** — wild heritage, [[Heartwood]] custodianship, proving-wild tradition. *Does not hold a Noble Groves estate.* Its two seats are [[Heartwood Estate]] in the Outer Old-Growth Wild and its political-ceremonial seat in the [[Heartwood Approach]].
-- **[[House Vaelaryn]]** — diplomacy and outsider-facing leverage; **highest non-elf integration of any estate**; [[Caelthir Vaelaryn]] is the current senior figure.
-- **[[House Silverbow]]** — wild harvest, hart-tradition, old-growth estate stewardship.
-- **[[House Thornmere]]** — [[Greenshield]] tradition, defensive vinework, founding-myth secondary role.
-- **[[House Dawnvale]]** — major druidic family; bloom, lunar, and field-reading tradition.
-- **[[House Greybranch]]** — oral law, memory-keeping, [[Council of Elders|Council]] process.
-- **[[House Ironsap]]** — sanctioned deadfall, tools, woodcraft, material restraint.
-
-Several dozen minor houses hold groves of their own, each with its own specialization and tradition but without the distinctive public ethos of the seven majors.
-
-The system of grove-holding is **fluid over elven timescales**. Families rise, decline, reform, occasionally lose their grove, occasionally receive one through [[Council of Elders|Council]] decision. The current configuration reflects roughly the last few centuries of this process.
+**The full canonical roster of houses — major and minor — lives in the dedicated [[Noble Families]] note rather than here.** The Groves note describes the district; the families themselves are documented elsewhere.
 
 ## Greenshield headquarters
 
-The [[Feywood]]'s formal military — the [[Greenshield]] — is headquartered at an estate in the Noble Groves, occupying traditional military-family grounds (historically [[House Thornmere]] but rotating through several lineages) that have served this function for generations. **The headquarters is integrated with its surrounding estate rather than a separate military compound.**
+The [[Feywood]]'s formal military — the [[Greenshield]] — is headquartered at an estate in the Noble Groves. The site is **traditional military-family grounds** that have served this function for generations, even as the families holding adjacent estates have shifted over time. The current arrangement reflects long [[House Thornmere]] association with the [[Greenshield]] tradition; the Thornmere family estate proper is in the [[Heartwood Approach]] with the other great houses, but **the HQ remains here in the Groves on grounds long associated with the order**, just down the path from where senior Thornmere figures still take rotations.
 
 [[Greenshield]] operations from this site include:
 
@@ -52,7 +46,7 @@ The [[Greenshield]] Commander holds offices here. The [[Heartwarden]] Captain (c
 
 ## Daily life
 
-Noble estates are active households. Residents include the family proper, extended family members, bonded staff across generations, and occasional non-elven long-term residents (rates vary by house; [[House Vaelaryn|Vaelaryn]] highest). Working halls handle family-specific craftwork, training, estate maintenance. Gardens provide house food at the family-scale. Family members move between the Noble Groves estate and any other family residences the house maintains elsewhere in the [[Feywood]].
+Minor-house estates are active households. Residents include the family proper, extended family members, bonded staff across generations, and occasional non-elven long-term residents. Working halls handle family-specific craftwork, training, estate maintenance. Gardens provide house food at the family-scale. Family members move between the Noble Groves estate and any other family residences the house maintains elsewhere in the [[Feywood]].
 
 Social life between estates is **continuous but discreet**. Neighboring families know one another well. Joint observances — some drawn from shared house tradition, some coordinated by [[Council of Elders|Council]] request — occur on their own schedules.
 
@@ -60,7 +54,7 @@ Social life between estates is **continuous but discreet**. Neighboring families
 
 Visitors to the Noble Groves are almost always visitors to a specific estate. Family business, diplomatic calls, formal house correspondence, invitations to observances — these bring visitors through. **Casual traffic does not happen.** The district is not closed, but its paths do not extend to casual travel.
 
-Realm visitors with sustained relationships to specific houses occasionally spend time in the Groves. This is rare but not unknown; [[House Vaelaryn|Vaelaryn]]'s realm-contact fluency in particular means that house hosts realm-side guests at [[House Vaelaryn|Vaelaryn]]'s estate with some frequency.
+Realm visitors with sustained relationships to specific houses occasionally spend time in the Groves. This is rare but not unknown.
 
 ## NPCs
 
@@ -73,7 +67,3 @@ Realm visitors with sustained relationships to specific houses occasionally spen
 - [[Heartwood Approach]] — adjacent inner district
 - [[Common Hearth]] — adjacent outward district
 - [[Crafthall]] — adjacent district
-
-## Note
-
-Specific noble estates within this district are not yet authored as separate notes. [[House Vaelaryn|Vaelaryn]], [[House Silverbow|Silverbow]], [[House Thornmere|Thornmere]], [[House Dawnvale|Dawnvale]], [[House Greybranch|Greybranch]], [[House Ironsap|Ironsap]] estates can be elevated to sub-notes if narrative requires it. For now, specific estates are prose references within this district.
