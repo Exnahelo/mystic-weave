@@ -44,4 +44,4 @@ After installing:
 2. Settings → Templater → Trigger Templater on new file creation: ON
 3. Settings → Templater → Folder templates: map each entity folder to its template (e.g. `10_world/npcs/` → `_templates/npc.md`)
 
-This makes new files in entity folders auto-apply the right template.
+This makes new files in tentity folders auto-apply the right template.
