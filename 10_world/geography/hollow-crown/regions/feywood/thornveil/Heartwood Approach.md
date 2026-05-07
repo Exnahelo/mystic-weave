@@ -18,7 +18,7 @@ The Approach is **entered rather than entered-into**. Paths from the outer distr
 
 Structures are the oldest in [[Thornveil]]. **Several predate the realm.** Each has been continuously occupied and continuously maintained for the full span since — a continuity that is canonical rather than unusual in elven civic life. Walls are grown rather than built; doors are shaped passages rather than hung slabs; the buildings breathe in the way the city breathes, integrated with the trees that hold them up.
 
-Sound is subdued. The Approach's daily noise is quiet conversation, the occasional [[Heartwarden]] on rotation passing through, druidic observance work at the [[Heartwood]] clearing's margin, and the distant civic sounds of the outer districts heard through intervening canopy. Councilors walking between chamber and residence move with the quality of attention the [[Feywood]] generally teaches and the Approach refines. Visitors moving through the district learn quickly to match the register or find themselves uncomfortable.
+Sound is subdued. The Approach's daily noise is quiet conversation, the occasional [[Heartwardens|Heartwarden]] on rotation passing through, druidic observance work at the [[Heartwood]] clearing's margin, and the distant civic sounds of the outer districts heard through intervening canopy. Councilors walking between chamber and residence move with the quality of attention the [[Feywood]] generally teaches and the Approach refines. Visitors moving through the district learn quickly to match the register or find themselves uncomfortable.
 
 ## The Council Chambers
 
@@ -32,9 +32,9 @@ The great houses of the [[Feywood]] hold their [[Thornveil]] estates here in the
 
 The architectural idiom varies by house — each carries its own aesthetic tradition — but all work within the district's shared register of restraint, age, and integration. None use dressed stone in the realm manner; none build out of nothing. The differences between estates are visible to elven eyes and cherished by the families who maintain them.
 
-**Detail on each house — its tradition, lineage, ethos, and senior figures — lives in the house's own entity note rather than here.** The Approach is the *district*; house information lives with the house.
+**Detail on each house — its tradition, lineage, ethos, and senior figures — lives in [[Noble Families]] rather than here.** The Approach is the *district*; house information lives with the houses.
 
-[[House Heartwood]] is one of the great houses with an estate in the Approach. The house's wild-heritage seat is at the [[Heartwood Estate]] in the Outer Old-Growth Wild; its Approach estate carries the political-ceremonial register and Council-facing civic life. Other great houses of the [[Feywood]] — including [[House Vaelaryn]], [[House Silverbow]], [[House Thornmere]], [[House Dawnvale]], [[House Greybranch]], [[House Ironsap]], and others — likewise hold estates here.
+[[Noble Families#House Heartwood|House Heartwood]] is one of the great houses with an estate in the Approach. The house's wild-heritage seat is at the [[Heartwood Estate]] in the Outer Old-Growth Wild; its Approach estate carries the political-ceremonial register and Council-facing civic life. Other great houses of the [[Feywood]] — including [[Noble Families#House Vaelaryn|House Vaelaryn]], [[Noble Families#House Silverbough|House Silverbough]], [[Noble Families#House Thornmere|House Thornmere]], [[Noble Families#House Dawnveil|House Dawnveil]], [[Noble Families#House Greybranch|House Greybranch]], [[Noble Families#House Ironsap|House Ironsap]], and others — likewise hold estates here.
 
 Visitors received at a great-house estate in the Approach are rarely casual. **This is where realm diplomatic business with specific houses occurs when it requires that level of weight.**
 
@@ -49,7 +49,7 @@ The [[Heartwood]]'s clearing sits at the district's geographic center, enclosed 
 The Approach receives three kinds of visitors regularly:
 
 - **Council business.** Diplomatic envoys, house representatives, occasional realm-side officials arriving for matters requiring [[Council of Elders|Council]] attention.
-- **Heartwood business.** [[Heartwarden]] on Watch rotations, druidic attendance, ceremonial observances, exceptional events.
+- **Heartwood business.** [[Heartwardens|Heartwarden]] on Watch rotations, druidic attendance, ceremonial observances, exceptional events.
 - **House business.** Visits to great-house estates for family or civic matters. These are typically conducted discreetly.
 
 Realm visitors do not routinely enter the Approach. Those who do are accompanied by elven hosts at all times and conduct their business efficiently.
@@ -64,3 +64,5 @@ Realm visitors do not routinely enter the Approach. Those who do are accompanied
 - [[Thornveil]] — parent
 - [[Heartwood]] — at the district's center
 - [[Noble Groves]] — adjacent district
+- [[Council of Elders]] — primary institutional body operating from this district
+- [[Noble Families]] — canonical home of house information
