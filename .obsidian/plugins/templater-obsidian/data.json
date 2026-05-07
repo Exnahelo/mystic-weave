@@ -1,0 +1,87 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "10_world/npcs",
+      "template": "_templates/npc.md"
+    },
+    {
+      "folder": "20_mechanics/analysis",
+      "template": "_templates/analysis.md"
+    },
+    {
+      "folder": "10_world/artifacts",
+      "template": "_templates/artifact.md"
+    },
+    {
+      "folder": "10_world/concepts",
+      "template": "_templates/concept.md"
+    },
+    {
+      "folder": "20_mechanics/decisions",
+      "template": "_templates/decision.md"
+    },
+    {
+      "folder": "10_world/deities",
+      "template": "_templates/deity.md"
+    },
+    {
+      "folder": "10_world/dragons",
+      "template": "_templates/dragon.md"
+    },
+    {
+      "folder": "10_world/history/events",
+      "template": "_templates/event.md"
+    },
+    {
+      "folder": "10_world/factions",
+      "template": "_templates/faction.md"
+    },
+    {
+      "folder": "10_world/geography/hollow-crown/locations",
+      "template": "_templates/location.md"
+    },
+    {
+      "folder": "10_world/peoples",
+      "template": "_templates/people.md"
+    },
+    {
+      "folder": "10_world/geography/hollow-crown/regions",
+      "template": "_templates/region.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
+}

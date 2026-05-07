@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "4c306ddb28cd246f",
+    "type": "split",
+    "children": [
+      {
+        "id": "48289c5c1e127146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d33ff45b77aeeee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee7cc4ec79791b86",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee25bac2f029beda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4a0c191ccbdc406",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5e60b5ce64ef310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "27295d7ea736c666",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e5373bc40b00cad",
+    "type": "split",
+    "children": [
+      {
+        "id": "72bf6ae4751f5979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110f89c0a59c8ff4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "03b6faf35c1c43fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6cc33b0e5bb331c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62477d1f41e01f58",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8a9e1eb4d23eea7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-map-view:Open map view": false
+    }
+  },
+  "active": "8d33ff45b77aeeee",
+  "lastOpenFiles": [
+    "MIGRATION_REFRESH_4A.md",
+    "10_world/geography/hollow-crown/regions/feywood/thornveil/Outer Bounds.md",
+    "10_world/geography/hollow-crown/regions/feywood/thornveil/Noble Groves.md",
+    "10_world/geography/hollow-crown/regions/feywood/thornveil/Heartwood Approach.md",
+    "10_world/geography/hollow-crown/regions/feywood/thornveil/Crafthall.md",
+    "10_world/geography/hollow-crown/regions/feywood/thornveil/Common Hearth.md",
+    "10_world/geography/hollow-crown/regions/feywood/thornveil",
+    "10_world/geography/hollow-crown/regions/feywood/silent-grove/Reading Glade.md",
+    "10_world/geography/hollow-crown/regions/feywood/silent-grove/Training Grounds.md",
+    "10_world/geography/hollow-crown/regions/feywood/silent-grove",
+    "10_world/geography/hollow-crown/regions/feywood/vaelmere/Wardens Hall.md",
+    "10_world/geography/hollow-crown/regions/feywood/vaelmere/Trade Hall.md",
+    "10_world/geography/hollow-crown/regions/feywood/vaelmere/Guest House.md",
+    "10_world/geography/hollow-crown/regions/feywood/vaelmere/Commons Hearth.md",
+    "10_world/geography/hollow-crown/regions/feywood/vaelmere",
+    "MIGRATION_FIX_3.md",
+    "10_world/geography/hollow-crown/regions/feywood/Heartwood Estate.md",
+    "10_world/geography/hollow-crown/regions/feywood/Heartwater Basin.md",
+    "10_world/geography/hollow-crown/regions/feywood/Feywood Border.md",
+    "10_world/geography/hollow-crown/regions/feywood/Vaelmere.md",
+    "10_world/geography/hollow-crown/regions/feywood/Silent Grove.md",
+    "10_world/geography/hollow-crown/regions/feywood/Thornveil.md",
+    "MIGRATION_REFRESH_3.md",
+    "10_world/geography/hollow-crown/regions/crystal-caverns/Varethyn's Lair.md",
+    "10_world/geography/hollow-crown/regions/crystal-caverns",
+    "MIGRATION_FIX_2.md",
+    "10_world/geography/hollow-crown/locations/stronghold-of-drakenvale/Varethyn's Lair.md",
+    "10_world/geography/hollow-crown/locations/stronghold-of-drakenvale/Sacred Pools.md",
+    "10_world/geography/hollow-crown/locations/stronghold-of-drakenvale/Platinum Heart.md",
+    "10_world/geography/hollow-crown/locations/stronghold-of-drakenvale/Draconic Hall.md",
+    "10_world/geography/hollow-crown/locations/stronghold-of-drakenvale",
+    "10_world/geography/hollow-crown/regions/feywood",
+    "10_world/mystic-weave-batch-2",
+    "10_world/mystic-weave-batch-2.zip",
+    "10_world/geography/hollow-crown/mystic-weave-batch-2.zip"
+  ]
+}
