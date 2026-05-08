@@ -1,11 +1,11 @@
 ---
-type: district
-status: working
-aliases: [the Crafthall]
-tags: [drakenvale, feywood, thornveil, crafthall, institutional-craft, workshops, trade-origination, craft-lineages, export-quality]
+type: location
+status: locked
+aliases: [the Crafthall, The Crafthall]
+tags: [drakenvale, feywood, thornveil, crafthall, institutional-craft, workshops, trade-origination, craft-lineages, export-quality, district]
 vault_id: crafthall
-region: "[[Hollow Crown]]"
-parent_location: "[[Thornveil]]"
+region: hollow-crown
+parent_location: thornveil
 ---
 
 # The Crafthall

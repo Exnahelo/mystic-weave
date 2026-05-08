@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Hollows, the Shadowed Hollows interior]
 tags: [drakenvale, shadowed-hollows, hazard, southern-dark-quadrant, necrotic, cult, shadow, restricted, wardens, temple-adjacent, corrupted-forest]
 vault_id: shadowed-hollows
-region: "[[Hollow Crown]]"
-parent_location: "[[Southern Dark Quadrant]]"
+region: hollow-crown
+parent_location: southern-dark-quadrant
 ---
 
 # Shadowed Hollows

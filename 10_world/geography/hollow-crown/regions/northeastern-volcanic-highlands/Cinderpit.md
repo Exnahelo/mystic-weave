@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the mining village, the coal village]
 tags: [drakenvale, cinderpit, settlement, mining-village, northeastern-volcanic-highlands, coal, ore, specialty-metals, supply-village, core-supply, zarkharath-upstream, drakari-heavy]
 vault_id: cinderpit
-region: "[[Hollow Crown]]"
-parent_location: "[[Northeastern Volcanic Highlands]]"
+region: hollow-crown
+parent_location: northeastern-volcanic-highlands
 ---
 
 # Cinderpit

@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Forge, the Forge complex]
 tags: [drakenvale, infernal-forge, forge, industrial, enchanted-craft, metallurgy, lava, northeastern-volcanic-highlands, infernal-forge-guild, zarkeros]
 vault_id: infernal-forge
-region: "[[Hollow Crown]]"
-parent_location: "[[Zarkharath]]"
+region: hollow-crown
+parent_location: zarkharath
 ---
 
 # Infernal Forge

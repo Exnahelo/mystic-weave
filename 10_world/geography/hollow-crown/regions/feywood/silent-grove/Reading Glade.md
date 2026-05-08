@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
-aliases: [the Reading Glade]
+status: locked
+aliases: [the Reading Glade, The Reading Glade]
 tags: [drakenvale, feywood, silent-grove, reading-glade, druidic-study, oral-tradition, observation-circles, sustained-practice, land-reading]
 vault_id: reading-glade
-region: "[[Hollow Crown]]"
-parent_location: "[[Silent Grove]]"
+region: hollow-crown
+parent_location: silent-grove
 ---
 
 # The Reading Glade

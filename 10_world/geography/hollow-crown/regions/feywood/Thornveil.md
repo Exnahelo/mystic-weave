@@ -1,11 +1,12 @@
 ---
 type: settlement
-status: working
+status: locked
 aliases: [the Capital, the Elven Capital]
 tags: [drakenvale, thornveil, settlement, feywood, elven-capital, heartwood-protector, council-seat, greenshield-headquarters, living-architecture, ancient-city]
 vault_id: thornveil
-region: "[[Hollow Crown]]"
-parent_region: "[[Feywood]]"
+region: hollow-crown
+parent_location: feywood
+
 ---
 
 # Thornveil

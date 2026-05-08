@@ -1,11 +1,11 @@
 ---
-type: district
-status: working
-aliases: [the Groves]
-tags: [drakenvale, feywood, thornveil, noble-groves, minor-house-estates, greenshield-headquarters, old-growth-residential, architectural-variety, family-tradition]
+type: location
+status: locked
+aliases: [the Groves, The Noble Groves]
+tags: [drakenvale, feywood, thornveil, noble-groves, minor-house-estates, greenshield-headquarters, old-growth-residential, architectural-variety, family-tradition, district]
 vault_id: noble-groves
-region: "[[Hollow Crown]]"
-parent_location: "[[Thornveil]]"
+region: hollow-crown
+parent_location: thornveil
 ---
 
 # The Noble Groves

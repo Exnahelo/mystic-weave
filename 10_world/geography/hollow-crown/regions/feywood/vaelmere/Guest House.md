@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
-aliases: [the Guest House]
+status: locked
+aliases: [the Guest House, The Guest House]
 tags: [drakenvale, feywood, vaelmere, guest-house, visitor-lodging, realm-facing, sanctioned-accommodation]
 vault_id: guest-house
-region: "[[Hollow Crown]]"
-parent_location: "[[Vaelmere]]"
+region: hollow-crown
+parent_location: vaelmere
 ---
 
 # The Guest House

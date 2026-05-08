@@ -1,11 +1,12 @@
 ---
-type: sacred-site
+type: settlement
 status: locked
-aliases: [the Silent Grove, the Grove]
+aliases: [the Silent Grove, the Grove, The Silent Grove]
 tags: [drakenvale, silent-grove, sacred-site, feywood, heartwarden-training, druidic-practice, ceremonial-site, ancient-grove, elven-sacred, elven-origin, first-trees, founding-site]
 vault_id: silent-grove
-region: "[[Hollow Crown]]"
-parent_region: "[[Feywood]]"
+region: hollow-crown
+parent_location: feywood
+
 ---
 
 # The Silent Grove

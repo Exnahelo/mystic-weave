@@ -1,11 +1,11 @@
 ---
-type: district
-status: working
-aliases: [the Outer Bounds]
-tags: [drakenvale, feywood, thornveil, outer-bounds, trade-staging, realm-facing, integration-zone, dispersed-residential, threshold]
+type: location
+status: locked
+aliases: [the Outer Bounds, The Outer Bounds]
+tags: [drakenvale, feywood, thornveil, outer-bounds, trade-staging, realm-facing, integration-zone, dispersed-residential, threshold, district]
 vault_id: outer-bounds
-region: "[[Hollow Crown]]"
-parent_location: "[[Thornveil]]"
+region: hollow-crown
+parent_location: thornveil
 ---
 
 # The Outer Bounds

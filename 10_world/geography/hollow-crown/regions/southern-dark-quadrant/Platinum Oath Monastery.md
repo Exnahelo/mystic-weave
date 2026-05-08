@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Monastery, Platinum Oath, the Oath Monastery]
 tags: [drakenvale, platinum-oath-monastery, monastery, southern-dark-quadrant, vigil, platinum-accord, warden-training, rift-of-discord, vindrael-tomb, lore-significant]
 vault_id: platinum-oath-monastery
-region: "[[Hollow Crown]]"
-parent_location: "[[Southern Dark Quadrant]]"
+region: hollow-crown
+parent_location: southern-dark-quadrant
 ---
 
 # Platinum Oath Monastery

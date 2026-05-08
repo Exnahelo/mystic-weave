@@ -1,10 +1,10 @@
 ---
-type: location
-status: working
+type: region
+status: locked
 aliases: [the Inner Ramparts, the rampart belt, the escarpments]
 tags: [drakenvale, hollow-crown, inner-ramparts, region-zone, highlands, escarpment, transitional, surface]
 vault_id: inner-ramparts
-region: "[[Hollow Crown]]"
+region: hollow-crown
 ---
 
 # Inner Ramparts

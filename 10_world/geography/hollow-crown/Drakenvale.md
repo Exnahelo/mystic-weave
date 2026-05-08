@@ -3,6 +3,8 @@ type: concept
 status: locked
 aliases: [Drakenvale, the Sanctuary, the Realm]
 tags: [drakenvale, sanctuary, realm-identity]
+vault_id: drakenvale
+region: hollow-crown
 ---
 
 # Drakenvale

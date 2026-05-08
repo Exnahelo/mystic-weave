@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the quarry village]
 tags: [drakenvale, stonemark, settlement, quarry-village, inner-ramparts, cut-stone, masonry, supply-village, core-supply, crystal-caverns-adjacent]
 vault_id: stonemark
-region: "[[Hollow Crown]]"
-parent_location: "[[Inner Ramparts]]"
+region: hollow-crown
+parent_location: inner-ramparts
 ---
 
 # Stonemark

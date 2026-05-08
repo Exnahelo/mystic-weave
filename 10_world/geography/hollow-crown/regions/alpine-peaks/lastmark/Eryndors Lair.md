@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [Eryndors Lair, the Lair, the Radiant's Lair]
 tags: [drakenvale, eryndors-lair, lair, shrine, diplomacy, alpine-peaks, sanctioned-access, discovery-gated, eryndor]
 vault_id: eryndors-lair
-region: "[[Hollow Crown]]"
-parent_location: "[[Lastmark]]"
+region: hollow-crown
+parent_location: lastmark
 ---
 
 # Eryndor's Lair

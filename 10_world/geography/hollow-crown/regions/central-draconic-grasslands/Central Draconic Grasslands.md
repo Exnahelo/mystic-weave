@@ -3,6 +3,7 @@ type: region
 aliases:
   - The Grasslands
   - Central Grasslands
+  - Draconic Grasslands
 tags:
   - hollow-crown
   - grasslands

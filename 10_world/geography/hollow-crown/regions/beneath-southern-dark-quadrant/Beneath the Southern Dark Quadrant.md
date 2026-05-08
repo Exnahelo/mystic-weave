@@ -11,7 +11,7 @@ tags:
   - southern-dark-quadrant
   - sealed
   - mordrax
-vault_id: southern-dark-quadrant
+vault_id: beneath-southern-dark-quadrant
 region: hollow-crown
 status: locked
 ---

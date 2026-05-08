@@ -1,11 +1,12 @@
 ---
-type: region-zone
-status: working
+type: location
+status: locked
 aliases: [the Basin]
-tags: [drakenvale, feywood, heartwater-basin, freshwater, riparian, ecological-indicator, feywood-interior]
+tags: [drakenvale, feywood, heartwater-basin, freshwater, riparian, ecological-indicator, feywood-interior, region-zone]
 vault_id: heartwater-basin
-region: "[[Hollow Crown]]"
-parent_region: "[[Feywood]]"
+region: hollow-crown
+parent_location: feywood
+
 ---
 
 # Heartwater Basin

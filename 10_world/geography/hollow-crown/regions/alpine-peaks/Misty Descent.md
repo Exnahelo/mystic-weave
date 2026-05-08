@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Descent, the Misty Slope]
 tags: [drakenvale, misty-descent, transition, mist, wetland-edge, disorienting, alpine-peaks, wilderness]
 vault_id: misty-descent
-region: "[[Hollow Crown]]"
-parent_location: "[[Alpine Peaks]]"
+region: hollow-crown
+parent_location: alpine-peaks
 ---
 
 # Misty Descent

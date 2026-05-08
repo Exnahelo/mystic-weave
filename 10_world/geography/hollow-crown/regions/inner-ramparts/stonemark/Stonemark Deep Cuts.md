@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Deep Cuts, the Cuts]
 tags: [drakenvale, stonemark-deep-cuts, subterranean, quarry, underground, dangerous, disputed, inner-ramparts]
 vault_id: stonemark-deep-cuts
-region: "[[Hollow Crown]]"
-parent_location: "[[Stonemark]]"
+region: hollow-crown
+parent_location: stonemark
 ---
 
 # Stonemark Deep Cuts

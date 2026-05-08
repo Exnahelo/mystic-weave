@@ -1,11 +1,11 @@
 ---
 type: location
-status: stub
+status: locked
 aliases: [the Overlook, Valley Edge]
 tags: [drakenvale, valley-edge-overlook, landmark, southwestern-mystic-wetlands, transition, vantage]
 vault_id: valley-edge-overlook
-region: "[[Hollow Crown]]"
-parent_location: "[[Southwestern Mystic Wetlands]]"
+region: hollow-crown
+parent_location: southwestern-mystic-wetlands
 ---
 
 # Valley Edge Overlook

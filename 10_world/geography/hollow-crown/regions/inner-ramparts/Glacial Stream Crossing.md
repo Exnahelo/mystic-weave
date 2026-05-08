@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Crossing, the Stream Crossing]
 tags: [drakenvale, glacial-stream-crossing, alpine, water, rest-point, bridge, inner-ramparts]
 vault_id: glacial-stream-crossing
-region: "[[Hollow Crown]]"
-parent_location: "[[Inner Ramparts]]"
+region: hollow-crown
+parent_location: inner-ramparts
 ---
 
 # Glacial Stream Crossing

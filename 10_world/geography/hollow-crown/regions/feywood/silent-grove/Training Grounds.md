@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
-aliases: [the Training Grounds]
+status: locked
+aliases: [the Training Grounds, The Training Grounds]
 tags: [drakenvale, feywood, silent-grove, training-grounds, heartwarden-training, combat-practice, druidic-instruction, seven-year-cycle, sacred-discipline]
 vault_id: training-grounds
-region: "[[Hollow Crown]]"
-parent_location: "[[Silent Grove]]"
+region: hollow-crown
+parent_location: silent-grove
 ---
 
 # The Training Grounds

@@ -1,8 +1,9 @@
 ---
 type: region
-status: working
+status: locked
 aliases: [the Hollow Crown, the basin]
 tags: [hollow-crown, drakenvale, cataclysm, sanctuary]
+region: hollow-crown
 vault_id: hollow-crown
 ---
 

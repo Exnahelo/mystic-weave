@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Forge City, the industrial city]
 tags: [drakenvale, zarkharath, settlement, city, northeastern-volcanic-highlands, infernal-forge, zarkeros, industrial, metallurgy, lava, enchanted-craft, drakari-heavy]
 vault_id: zarkharath
-region: "[[Hollow Crown]]"
-parent_location: "[[Northeastern Volcanic Highlands]]"
+region: hollow-crown
+parent_location: northeastern-volcanic-highlands
 ---
 
 # Zarkharath

@@ -1,11 +1,11 @@
 ---
-type: route-node
-status: working
+type: location
+status: locked
 aliases: [the Border]
-tags: [drakenvale, feywood-border, feywood, threshold, liminal, hall-of-guides, sanctioned-crossing, oath-alliance, western-forest]
+tags: [drakenvale, feywood-border, feywood, threshold, liminal, hall-of-guides, sanctioned-crossing, oath-alliance, western-forest, route-node]
 vault_id: feywood-border
-region: "[[Hollow Crown]]"
-parent_location: "[[Western Temperate Forest]]"
+region: hollow-crown
+parent_location: western-temperate-forest
 ---
 
 # Feywood Border

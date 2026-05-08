@@ -3,6 +3,7 @@ type: region
 aliases:
   - Western Forest
   - The Western Temperate Forest
+  - Temperate Forest
 tags:
   - hollow-crown
   - forest

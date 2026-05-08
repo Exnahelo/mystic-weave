@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Pass, the Alpine Crossing]
 tags: [drakenvale, alpine-pass, alpine, high-altitude, entry-point, exposed, alpine-peaks, wilderness]
 vault_id: alpine-pass
-region: "[[Hollow Crown]]"
-parent_location: "[[Alpine Peaks]]"
+region: hollow-crown
+parent_location: alpine-peaks
 ---
 
 # Alpine Pass

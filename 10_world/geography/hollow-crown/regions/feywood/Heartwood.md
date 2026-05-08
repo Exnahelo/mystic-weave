@@ -1,10 +1,11 @@
 ---
-type: sacred-site
-status: working
+type: location
+status: locked
 aliases: [the Heartwood]
 tags: [drakenvale, heartwood, sacred-site, feywood, feywood-center, living-heart, elven-sacred, heartwarden-site, council-ceremonial, ancient, conscious, root-network, house-heartwood]
+region: hollow-crown
 vault_id: heartwood
-parent_location: "[[Feywood]]"
+parent_location: feywood
 contested: true
 ---
 

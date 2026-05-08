@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
-aliases: [Warden's Hall, the Hall]
+status: locked
+aliases: [Warden's Hall, the Hall, The Warden's Hall]
 tags: [drakenvale, feywood, vaelmere, wardens-hall, civic-authority, host-diplomat, warden-residence, administrative-seat]
 vault_id: wardens-hall
-region: "[[Hollow Crown]]"
-parent_location: "[[Vaelmere]]"
+region: hollow-crown
+parent_location: vaelmere
 ---
 
 # The Warden's Hall

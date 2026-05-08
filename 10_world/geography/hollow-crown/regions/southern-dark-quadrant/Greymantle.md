@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the outlaw settlement, the edge-settlement]
 tags: [drakenvale, greymantle, settlement, outlaw, edge-settlement, southern-dark-quadrant, warden-of-greymantle, discordant-war-legacy, low-trust, deniable, refuge]
 vault_id: greymantle
-region: "[[Hollow Crown]]"
-parent_location: "[[Southern Dark Quadrant]]"
+region: hollow-crown
+parent_location: southern-dark-quadrant
 ---
 
 # Greymantle

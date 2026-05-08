@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [Rift Edge, the Rift Edge, the Edge of the Rift]
 tags: [drakenvale, rift-of-discord-edge, rift-of-discord, perimeter-corridor, vigil-patrol, corruption-adjacent, buffer-zone, southern-dark-quadrant]
 vault_id: rift-of-discord-edge
-region: "[[Hollow Crown]]"
-parent_location: "[[Southern Dark Quadrant]]"
+region: hollow-crown
+parent_location: southern-dark-quadrant
 ---
 
 # Rift of Discord Edge

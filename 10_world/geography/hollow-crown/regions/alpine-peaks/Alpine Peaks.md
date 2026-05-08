@@ -1,10 +1,10 @@
 ---
-type: location
-status: working
+type: region
+status: locked
 aliases: [the Alpine Peaks, the crater rim, the outer mountain]
 tags: [drakenvale, hollow-crown, alpine-peaks, region-zone, wilderness, border, crater-rim, dangerous, surface]
 vault_id: alpine-peaks
-region: "[[Hollow Crown]]"
+region: hollow-crown
 ---
 
 # Alpine Peaks

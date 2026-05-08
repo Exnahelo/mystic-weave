@@ -1,11 +1,12 @@
 ---
 type: settlement
-status: working
+status: locked
 aliases: [the trade waypoint]
 tags: [drakenvale, vaelmere, settlement, feywood, elven-settlement, trade-waypoint, mercantile-hub, realm-facing, diplomatic-buffer, living-architecture]
 vault_id: vaelmere
-region: "[[Hollow Crown]]"
-parent_region: "[[Feywood]]"
+region: hollow-crown
+parent_location: feywood
+
 ---
 
 # Vaelmere

@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Oath Approach, the secured mountain path]
 tags: [drakenvale, platinum-oath-approach, platinum-oath-monastery, secured-route, vigil-maintained, fortified-corridor, southern-dark-quadrant, mountain-path]
 vault_id: platinum-oath-approach
-region: "[[Hollow Crown]]"
-parent_location: "[[Southern Dark Quadrant]]"
+region: hollow-crown
+parent_location: southern-dark-quadrant
 ---
 
 # Platinum Oath Approach

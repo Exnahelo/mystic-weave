@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
-aliases: [the Trade Hall]
+status: locked
+aliases: [the Trade Hall, The Trade Hall]
 tags: [drakenvale, feywood, vaelmere, trade-hall, mercantile-institution, trade-envoy-corps, inbound-outbound-flow, realm-interface, trade-master]
 vault_id: trade-hall
-region: "[[Hollow Crown]]"
-parent_location: "[[Vaelmere]]"
+region: hollow-crown
+parent_location: vaelmere
 ---
 
 # The Trade Hall

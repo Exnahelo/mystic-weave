@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the gathering village]
 tags: [drakenvale, brackenmoor, settlement, gathering-village, wetland-edge, rare-specimens, transition-biome, supply-village, mirefall-upstream, southwestern-mystic-wetlands]
 vault_id: brackenmoor
-region: "[[Hollow Crown]]"
-parent_location: "[[Southwestern Mystic Wetlands]]"
+region: hollow-crown
+parent_location: southwestern-mystic-wetlands
 ---
 
 # Brackenmoor

@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Rift, the Discord Rift, the Rift's heart]
 tags: [drakenvale, rift-of-discord, hazard, southern-dark-quadrant, discordant-war-legacy, corrupted-land, dark-hold, bottomless-pit, vindrael-sacrifice-site, warden-training, vigil-patrol, active-corruption]
 vault_id: rift-of-discord
-region: "[[Hollow Crown]]"
-parent_location: "[[Southern Dark Quadrant]]"
+region: hollow-crown
+parent_location: southern-dark-quadrant
 ---
 
 # Rift of Discord

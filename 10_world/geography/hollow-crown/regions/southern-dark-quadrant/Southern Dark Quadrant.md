@@ -1,10 +1,10 @@
 ---
-type: location
-status: working
+type: region
+status: locked
 aliases: [the southern dark quadrant, the dark quadrant, southern quadrant]
 tags: [drakenvale, hollow-crown, southern-dark-quadrant, region-zone, corrupted, dark-quadrant, vigil-monitored, discordant-war-legacy]
 vault_id: southern-dark-quadrant
-region: "[[Hollow Crown]]"
+region: hollow-crown
 ---
 
 # Southern Dark Quadrant

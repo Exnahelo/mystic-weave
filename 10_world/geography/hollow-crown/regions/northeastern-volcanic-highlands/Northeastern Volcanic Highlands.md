@@ -1,10 +1,10 @@
 ---
-type: location
-status: working
-aliases: [the volcanic highlands, the northeastern highlands, the highlands]
+type: region
+status: locked
+aliases: [the volcanic highlands, the northeastern highlands, the highlands, Volcanic Highlands]
 tags: [drakenvale, hollow-crown, northeastern-volcanic-highlands, region-zone, volcanic, highlands, industrial, drakari-heavy]
 vault_id: northeastern-volcanic-highlands
-region: "[[Hollow Crown]]"
+region: hollow-crown
 ---
 
 # Northeastern Volcanic Highlands

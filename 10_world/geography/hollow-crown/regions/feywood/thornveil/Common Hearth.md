@@ -1,11 +1,11 @@
 ---
-type: district
-status: working
-aliases: [the Hearth]
-tags: [drakenvale, feywood, thornveil, common-hearth, residential, markets, community, cluster-dwellings, civic-life]
+type: location
+status: locked
+aliases: [the Hearth, The Common Hearth]
+tags: [drakenvale, feywood, thornveil, common-hearth, residential, markets, community, cluster-dwellings, civic-life, district]
 vault_id: common-hearth
-region: "[[Hollow Crown]]"
-parent_location: "[[Thornveil]]"
+region: hollow-crown
+parent_location: thornveil
 ---
 
 # The Common Hearth

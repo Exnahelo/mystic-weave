@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
-aliases: [the Commons]
+status: locked
+aliases: [the Commons, The Commons Hearth]
 tags: [drakenvale, feywood, vaelmere, commons-hearth, social-anchor, shared-dining, civic-commons, community-space]
 vault_id: commons-hearth
-region: "[[Hollow Crown]]"
-parent_location: "[[Vaelmere]]"
+region: hollow-crown
+parent_location: vaelmere
 ---
 
 # The Commons Hearth

@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the stilt-city, the wetland city]
 tags: [drakenvale, mirefall, settlement, stilt-city, southwestern-mystic-wetlands, bayou, wetland, rare-herbs, restoratives, quiet, patchwork]
 vault_id: mirefall
-region: "[[Hollow Crown]]"
-parent_location: "[[Southwestern Mystic Wetlands]]"
+region: hollow-crown
+parent_location: southwestern-mystic-wetlands
 ---
 
 # Mirefall

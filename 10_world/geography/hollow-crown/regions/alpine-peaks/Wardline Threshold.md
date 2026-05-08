@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Wardline, the Ward Line, the Threshold, the wardline-threshold]
 tags: [drakenvale, wardline-threshold, ward, threshold, magical-barrier, narrative-gate, alpine-peaks, wilderness]
 vault_id: wardline-threshold
-region: "[[Hollow Crown]]"
-parent_location: "[[Alpine Peaks]]"
+region: hollow-crown
+parent_location: alpine-peaks
 ---
 
 # Wardline Threshold

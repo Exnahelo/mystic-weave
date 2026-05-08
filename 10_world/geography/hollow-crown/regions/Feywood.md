@@ -1,10 +1,11 @@
 ---
 type: region
-status: working
+status: locked
 aliases: [the Feywood]
 tags: [drakenvale, feywood, region-zone, liminal, elven-homeland, magical-ecology, oath-sovereign, heartwood, sacred-land, predates-realm, heartwood-sustained, root-network]
+region: hollow-crown
 vault_id: feywood
-parent_region: "[[Hollow Crown]]"
+
 ---
 
 # Feywood

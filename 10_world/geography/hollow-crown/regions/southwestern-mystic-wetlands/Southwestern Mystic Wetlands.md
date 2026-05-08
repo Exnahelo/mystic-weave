@@ -1,10 +1,10 @@
 ---
-type: location
-status: working
-aliases: [the Mystic Wetlands, the wetlands, the southwestern wetlands]
+type: region
+status: locked
+aliases: [the Mystic Wetlands, the wetlands, the southwestern wetlands, Mystic Wetlands]
 tags: [drakenvale, hollow-crown, southwestern-mystic-wetlands, region-zone, wetlands, drainage, surface, southwest]
 vault_id: southwestern-mystic-wetlands
-region: "[[Hollow Crown]]"
+region: hollow-crown
 ---
 
 # Southwestern Mystic Wetlands

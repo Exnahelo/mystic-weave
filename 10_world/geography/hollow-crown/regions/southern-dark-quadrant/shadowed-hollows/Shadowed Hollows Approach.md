@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Hollows Approach]
 tags: [drakenvale, shadowed-hollows-approach, shadowed-hollows, perimeter-corridor, vigil-patrol, corruption-adjacent, corrupted-forest, buffer-zone, southern-dark-quadrant]
 vault_id: shadowed-hollows-approach
-region: "[[Hollow Crown]]"
-parent_location: "[[Southern Dark Quadrant]]"
+region: hollow-crown
+parent_location: southern-dark-quadrant
 ---
 
 # Shadowed Hollows Approach

@@ -1,11 +1,11 @@
 ---
-type: district
-status: working
-aliases: [the Approach]
-tags: [drakenvale, feywood, thornveil, heartwood-approach, council-seat, ancient-groves, great-house-residence, heartwood-adjacent]
+type: location
+status: locked
+aliases: [the Approach, The Heartwood Approach]
+tags: [drakenvale, feywood, thornveil, heartwood-approach, council-seat, ancient-groves, great-house-residence, heartwood-adjacent, district]
 vault_id: heartwood-approach
-region: "[[Hollow Crown]]"
-parent_location: "[[Thornveil]]"
+region: hollow-crown
+parent_location: thornveil
 ---
 
 # The Heartwood Approach

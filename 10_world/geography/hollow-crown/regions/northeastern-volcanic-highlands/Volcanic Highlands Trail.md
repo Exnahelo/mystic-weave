@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Highlands Trail, the supply trail]
 tags: [drakenvale, volcanic-highlands-trail, route-node, industrial-corridor, supply-route, thermal-environment, drakari-heavy, northeastern-volcanic-highlands]
 vault_id: volcanic-highlands-trail
-region: "[[Hollow Crown]]"
-parent_location: "[[Northeastern Volcanic Highlands]]"
+region: hollow-crown
+parent_location: northeastern-volcanic-highlands
 ---
 
 # Volcanic Highlands Trail

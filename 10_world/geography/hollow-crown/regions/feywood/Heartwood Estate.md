@@ -1,11 +1,12 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the Estate]
 tags: [drakenvale, feywood, heartwood-estate, noble-estate, house-heartwood, outer-wild, wild-upbringing, anti-monumental, lethariel-residence, heartwood-bow]
 vault_id: heartwood-estate
-region: "[[Hollow Crown]]"
-parent_region: "[[Feywood]]"
+region: hollow-crown
+parent_location: feywood
+
 ---
 
 # Heartwood Estate

@@ -1,11 +1,11 @@
 ---
 type: location
-status: working
+status: locked
 aliases: [the border fort, the realm's gate, the high fort]
 tags: [drakenvale, lastmark, settlement, border-fort, inner-ramparts, ward-controlled, dragon-guard, military, carved-stone, sstc-customs, sanctioned-entry]
 vault_id: lastmark
-region: "[[Hollow Crown]]"
-parent_location: "[[Alpine Peaks]]"
+region: hollow-crown
+parent_location: alpine-peaks
 ---
 
 # Lastmark
