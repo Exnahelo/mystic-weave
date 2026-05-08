@@ -2,7 +2,7 @@
 type: location
 status: working
 aliases: [Eryndors Lair, the Lair, the Radiant's Lair]
-tags: [drakenvale, eryndors-lair, lair, shrine, diplomacy, alpine-peaks-adjacent, inner-ramparts, sanctioned-access, discovery-gated, eryndor]
+tags: [drakenvale, eryndors-lair, lair, shrine, diplomacy, alpine-peaks, sanctioned-access, discovery-gated, eryndor]
 vault_id: eryndors-lair
 region: "[[Hollow Crown]]"
 parent_location: "[[Lastmark]]"
@@ -113,7 +113,7 @@ Lair access is **strictly controlled**. The standard path:
 ## Connected nodes
 
 - [[Lastmark]] — sole approach route
-- [[Inner Ramparts]] — regional parent (geographically; near-Lastmark mountain interior)
+- [[Alpine Peaks]] — regional parent
 - [[Eryndor the Radiant]] — the Lair's defining inhabitant
 - [[Solveris]] — devotional anchor of the Shrine
 - [[Silver Wing Envoys]] — operational hub for their external missions
@@ -125,4 +125,4 @@ Lair access is **strictly controlled**. The standard path:
 
 The Lair was canonically relocated to the [[Lastmark]]-adjacent location in a prior authoring pass. **Legacy references** in some realm files to `eryndors-lair → sacred-pools` or `eryndors-lair → platinum-heart` (older one-way discovery-gated links) are **deprecated**. This node's connections are authoritative.
 
-The source world vault places this file under `surface/alpine_peaks/`. Per geography canon (cell location near [[Lastmark]] at C5, terrain `I`), the Lair functionally sits in the [[Inner Ramparts]] zone — at the boundary, **carved into the mountain interior near [[Lastmark]]'s approach**. The user-vault placement under `inner-ramparts/lastmark/` reflects the close [[Lastmark]] association and the geography canon's terrain classification.
+Source vault places this file under `surface/alpine_peaks/eryndors_lair.md`. **User-vault placement under `alpine-peaks/lastmark/` reflects the canonical proximity** — the Lair is "carved into the mountain's interior near [[Lastmark]]'s approach" and the [[Lastmark]] subfolder groups the two together while keeping both within the [[Alpine Peaks]] regional parent.

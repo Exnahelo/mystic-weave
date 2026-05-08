@@ -1,7 +1,7 @@
 ---
 type: location
 status: working
-aliases: [the Alpine Peaks, the crater rim, the outer mountain, the alpine wilderness]
+aliases: [the Alpine Peaks, the crater rim, the outer mountain]
 tags: [drakenvale, hollow-crown, alpine-peaks, region-zone, wilderness, border, crater-rim, dangerous, surface]
 vault_id: alpine-peaks
 region: "[[Hollow Crown]]"
@@ -9,29 +9,39 @@ region: "[[Hollow Crown]]"
 
 # Alpine Peaks
 
-**The outer face of the realm — the true mountain barrier that encircles the [[Hollow Crown]].** The Alpine Peaks are the broken, glacial, near-impassable remains of the mountain's surviving crown after the world-killing meteor's impact hollowed its interior. **Sheer cliff systems, icebound ridges, cloud belts, high passes, and glacial crystals define the terrain.** No settlements exist here. The terrain is ice, rock, and wind. **The [[Dragon Guard]] does not patrol this far out;** the realm's institutional reach effectively ends at [[Lastmark]]'s wardstones, and what lies beyond is wilderness.
+**The crater rim of the [[Hollow Crown]]** — the broken, glacial, near-impassable remains of the mountain's surviving crown after the world-killing meteor's impact hollowed its interior. **The Alpine Peaks form the full outer ring** of the realm and contain the realm's only viable mountain pass into the basin. Most of the region is uninhabited wilderness — ice, rock, wind — but the realm's institutional anchor for external entry sits here at [[Lastmark]], the carved fortress at the alpine threshold, with [[Eryndor the Radiant|Eryndor's]] Lair nearby.
 
-## What the Alpine Peaks are
+## What the region is
 
 The Alpine Peaks form **the full outer ring** of the [[Hollow Crown]]. From the basin's interior, they are the visible mountain wall surrounding everything. **From the outside, they are an impossible mountain** — a vast peak among peaks that no one approaches without specific reason, and that the realm's wardwork makes effectively inaccessible to those without sanctioned guidance.
 
-The geography is **the meteor's mountain, broken**:
+The region holds:
 
-- **Sheer cliff systems** — vertical drops of catastrophic magnitude, the legacy of the impact's blasting
-- **Icebound ridges** — high spines covered in glacial accumulation, the realm's frost reserves
-- **Cloud belts** — persistent atmospheric phenomena that wrap the peaks even on otherwise clear days
-- **High passes** — narrow stable routes that exist between the unstable terrain, **none of them obvious from outside**
-- **Glacial crystals** — distinctive crystalline ice formations that the realm's lapidaries occasionally collect from accessible reaches
+- **[[Lastmark]]** — the realm's border fort and ward-controlled entry point, **carved directly into the mountain face at the alpine threshold**. The realm's sole institutional entry. Heavily garrisoned by the [[Dragon Guard]], coordinates [[Wardens]] anomaly response, processes [[Silver Scale Trading Company|SSTC]] caravans through customs.
+- **[[Eryndors Lair|Eryndor's Lair]]** — the carved residence of [[Eryndor the Radiant]], dragon of the [[Draconic Council]]. **Strategically positioned near [[Lastmark]]** for diplomatic acceleration, border defense, and audience convenience that does not require interior transit.
+- **[[Alpine Pass]]** — the high mountain pass cutting through the outer ring. **The realm's only viable mountain crossing.**
+- **[[Wardline Threshold]]** — the outer boundary of the realm's protective magic. Sits in the wilderness beyond [[Lastmark]]. **Carved wardstones mark the boundary**, deterring intruders through deepening disorientation that worsens with every step forward.
+- **[[Misty Descent]]** — a slope below the Wardline where alpine cold gives way to unnatural wetland-warmth and dense rolling fog. The wetlands' atmospheric influence bleeds upslope here.
+- **The outer wilderness** — beyond [[Lastmark]] and the named features, the alpine terrain is **uninhabited mountain wilderness**: sheer cliff systems, icebound ridges, cloud belts, glacial crystals, the natural geography of a meteor-broken summit.
 
-## The crater rim
+## The realm's only pass
 
-The Alpine Peaks are not a mountain range in the ordinary sense. **They are the rim of a crater** — the surviving crown of the mountain whose summit was blasted away when the world-killing meteor struck. From above (an angle no surface traveler can achieve), the Hollow Crown would read as a ring of jagged peaks surrounding an interior bowl, **with the basin floor invisible to the outside observer**.
+**There is essentially one mountain pass into the [[Hollow Crown]]** — the [[Alpine Pass]] crossing through the outer ring. **The only way to enter the realm physically is by passing through this geography**, and the only sanctioned route through it is via [[Lastmark]]. [[Eryndor the Radiant|Eryndor]]'s decision to lair near [[Lastmark]] follows from this geography:
 
-This origin shapes the terrain. **The peaks lean inward** toward the basin in many places, the impact having broken the mountain's structure asymmetrically. The outer faces are typically steeper than the inner faces; **the rim's stability varies dramatically across its circumference**, with some sections solid enough to walk and others actively shedding stone in slow gravity-driven collapse.
+- **One pass means one chokepoint.** The realm's border defense concentrates here.
+- **Foreign diplomats can be received without descending into the valley** — [[Eryndors Lair|Eryndor's Lair]] handles external audiences, the **disorienting-wagon protocol** allows formal reception without the diplomat learning the realm's interior geography.
+- **An ancient dragon at the entrance** is the realm's most concrete deterrent for any external power that might consider hostile approach.
+- **Lastmark's choke** is leveraged: [[Eryndor the Radiant|Eryndor]]'s response time to [[Lastmark]] is minimal, and the fortress's defensive geography combined with a Council dragon's presence is what the realm's external adversaries factor when considering whether incursion is plausible.
 
-## No settlements
+## The Wardline and the wilderness chain
 
-**No settlements exist in the Alpine Peaks proper.** The terrain does not support sustained habitation:
+The realm's protective magic extends through the alpine wilderness. The **[[Wardline Threshold]]** is the operational outer boundary — invisible to ordinary perception, unmistakable to anyone with magical sensitivity, **deterring unsanctioned approach through deepening disorientation rather than physical resistance**.
+
+A theoretical approach through the wilderness chain — **[[Alpine Pass]] → [[Glacial Stream Crossing]] → (Ironwood Ridge) → [[Wardline Threshold]] → [[Misty Descent]] → [[Valley Edge Overlook]]** — represents what the geography *looks* like as a continuous descent path. **In practice, the [[Wardline Threshold]] makes this path unusable for unsanctioned travelers.** The institutional path through [[Lastmark]] is the only route that works.
+
+## No settlements beyond Lastmark
+
+**No settlements exist in the Alpine Peaks beyond [[Lastmark]] and [[Eryndors Lair|Eryndor's Lair]].** The terrain does not support sustained habitation:
 
 - No water sources beyond melt that runs through too quickly to gather
 - No usable soil for growing
@@ -40,50 +50,55 @@ This origin shapes the terrain. **The peaks lean inward** toward the basin in ma
 - Atmospheric thinness at the higher elevations
 - Cold beyond what most species can sustain
 
-[[Lastmark]] sits at the **inner approach to the Alpine Peaks**, where the rampart belt meets the outer mountain's lower reaches. From [[Lastmark]] outward, the terrain is **alpine wilderness** — what travelers see when they look up from the fort, **what no one in the realm traverses without specific cause**.
-
-## Hidden entry points
-
-**Entry points exist** through the Alpine Peaks, but they are hidden, unmarked, and only usable with local knowledge or guidance. **The realm's wardwork makes these entry points effectively inaccessible** to those without realm-recognized standing — the wardstone system at [[Lastmark]] is the operational front of a wider barrier that extends through the alpine rim itself.
-
-The known sanctioned entry is the [[Lastmark]] approach. Other paths are not advertised; **their existence is held as institutional knowledge by the [[Dragon Guard]] and the Ward-Keeper corps** rather than published or mapped publicly. The realm reserves the option to grant or withdraw passage through other entries as circumstances require.
+[[Lastmark]] is the inner inhabited threshold. [[Eryndors Lair|Eryndor's Lair]] is the only other carved structure of consequence, and it is private to its dragon-resident.
 
 ## Wildlife and phenomena
 
-The Alpine Peaks support **specialized cold-adapted wildlife** at the lower elevations: certain mountain goats, eagles, snow predators, the occasional rare specimen that the realm's herbalists or scholars commission for collection. **The higher elevations are effectively lifeless** in the ordinary biological sense.
+The Alpine Peaks support **specialized cold-adapted wildlife**:
 
-**Magical phenomena occur** in the Alpine Peaks but are not extensively catalogued. Atmospheric anomalies — auroras, lightning that does not match storm patterns, sound that travels strangely between peaks — are reported by [[Lastmark]]'s observation corps with some regularity. **None have produced threats requiring institutional response in living memory.** The peaks are old, settled, and largely inert in terms of active phenomena.
+- **Ice drakes and frost wyverns** patrol the skies above the [[Alpine Pass]] — territorial creatures that tolerate no trespass lightly
+- **Giant eagles** circle the mid-elevations, with known territories near [[Glacial Stream Crossing]]
+- **Winter wolves** leave seasonal tracks at the lower mountain reaches, particularly during winter and early spring
+- **Will-o'-wisps** drift through the [[Misty Descent]]'s fog with their own alien purpose
 
-The **glacial crystals** are the most notable resource phenomenon. These distinctive crystalline formations grow only in specific microclimates within the alpine ice. **They have minor uses in [[Arcane Conservatory|Conservatory]] enchantment work and rare uses in ceremonial contexts.** Collection is occasional and small-scale; the realm does not commercially exploit the alpine resources.
+**Magical phenomena occur** but are not extensively catalogued. The **glacial crystals** embedded in the cliff faces along the [[Alpine Pass]] are the most notable resource phenomenon — ice magic infused into rock, **forming passive wards against fire-based intrusion**. They have minor uses in [[Arcane Conservatory|Conservatory]] enchantment work and rare uses in ceremonial contexts. **Everfrost Moss** along the [[Glacial Stream Crossing|Crossing]]'s banks is similarly harvested in small quantities.
 
 ## Travel and access
 
-Travel through the Alpine Peaks is **the rarest movement the realm undertakes**. The standard path is no path — **the realm enters and exits through [[Lastmark]]**, and crossing the alpine wilderness directly is reserved for:
+Travel through the Alpine Peaks is **the rarest movement the realm undertakes**. The standard path is **[[Lastmark]]** — the realm enters and exits through [[Lastmark]], and crossing the alpine wilderness directly is reserved for:
 
 - **Sanctioned reconnaissance** by the [[Dragon Guard]] in specific operational contexts
 - **Anomaly response** when the [[Wardens]] need to investigate phenomena beyond [[Lastmark]]'s observation range
 - **Draconic flight** — [[Draconic Council|Council]] dragons and other draconic residents fly the alpine distances when needed; this is the only practical way to traverse the rim quickly
 - **Rare external contact** with parties whom the realm has chosen to engage outside the standard customs framework — extremely uncommon
 
-**No civilian transit through the Alpine Peaks proper is canonical.** A character on legitimate alpine business is on either [[Dragon Guard]], [[Wardens|Warden]], or [[Draconic Council|Council]] errand; ordinary travelers do not have cause to cross the rim.
+**No civilian transit through the Alpine Peaks beyond [[Lastmark]] is canonical.** The wilderness chain ([[Alpine Pass]] → [[Glacial Stream Crossing]] → [[Wardline Threshold]] → [[Misty Descent]]) is documented for narrative use but is **not a practical travel route** for ordinary characters.
 
 ## Character
 
-The Alpine Peaks' atmosphere is **vast, inhuman, and indifferent**. The terrain does not respond to visitors the way the [[Feywood]] responds, the way the [[Shadowed Hollows]] respond, or the way the [[Southwestern Mystic Wetlands|wetlands]] respond. **It simply is.** The wind blows. The ice grinds. The rock falls. **The mountain has been here longer than the realm and will be here longer than anyone alive.**
+The Alpine Peaks' atmosphere is **vast, inhuman, and indifferent** beyond the institutional zones. The terrain does not respond to visitors the way the [[Feywood]] responds, the way the [[Shadowed Hollows]] respond, or the way the [[Southwestern Mystic Wetlands|wetlands]] respond. **It simply is.** The wind blows. The ice grinds. The rock falls. **The mountain has been here longer than the realm and will be here longer than anyone alive.**
 
-For the realm's residents, the Alpine Peaks are **a defining horizon that no one expects to cross**. The peaks are visible from much of the basin's higher terrain, particularly from [[Lastmark]] and from the upper reaches of [[Drakenvale City]]'s elevated districts. **They are seen daily and reached by almost no one.**
+[[Lastmark]] punctuates the wilderness with **disciplined institutional presence**. [[Eryndors Lair|Eryndor's Lair]] adds a sacred-civilizational note that the wilderness around it does not share. **These are the points of human-and-draconic civilization in a region that is otherwise mountain.**
 
-The peaks are also **the realm's most concrete reminder of its own boundedness**. The basin is large but finite; the alpine rim is the visible proof that what is contained here is contained, that the world beyond is real but separated, that the realm exists inside a structure made by catastrophe and held by wardwork. **This perspective lives in [[Lastmark]] particularly.** A soldier rotating onto observation duty on the upper levels learns to feel it within days. **It does not become familiar; it stays present.**
+The peaks are **the realm's most concrete reminder of its own boundedness**. The basin is large but finite; the alpine rim is the visible proof that what is contained here is contained, that the world beyond is real but separated, that the realm exists inside a structure made by catastrophe and held by wardwork.
 
 ## NPCs
 
-- **[[Eryndor the Radiant]]** — flies the alpine distances regularly between [[Eryndors Lair|his Lair]] and the [[Stronghold of Drakenvale|Stronghold]]; his presence in the alpine sky is the realm's most visible resident draconic activity
-- [[Dragon Guard]] reconnaissance personnel — Tier-3 generative; rare alpine operations
-- [[Wardens]] anomaly-response specialists — Tier-3 generative; even rarer alpine operations
+- **[[Eryndor the Radiant]]** — Council dragon resident at [[Eryndors Lair|the Lair]]; flies the alpine distances regularly between his Lair and the [[Stronghold of Drakenvale|Stronghold]]; his presence in the alpine sky is the realm's most visible resident draconic activity
+- **Commandant of Lastmark** — Tier-3 generative; senior military authority at [[Lastmark]]
+- **Chief Ward-Keeper** — Tier-3 generative; oversees the wardstone system at [[Lastmark]]
+- **Lair Steward** — Tier-3 generative; manages [[Eryndors Lair|Eryndor's Lair]] day-to-day
+- **[[Lethira Vale]]** — recurring presence at [[Lastmark]]; administrative/transport coordinator (anchored at [[Drakenvale City]])
+- [[Dragon Guard]] reconnaissance personnel and [[Wardens]] anomaly-response specialists — Tier-3 generative roles for rare alpine operations
 
 ## Connected nodes
 
 - [[Hollow Crown]] — regional parent
-- [[Inner Ramparts]] — inner boundary; the rampart belt sits beneath the peaks
-- [[Lastmark]] — the realm's sole sanctioned border passage at the alpine approach
-- [[Eryndors Lair|Eryndor's Lair]] — carved into the mountain near [[Lastmark]]; functionally Inner Ramparts but adjacent to the alpine threshold
+- [[Lastmark]] — the realm's sole sanctioned border passage
+- [[Eryndors Lair|Eryndor's Lair]] — Council dragon residence near [[Lastmark]]
+- [[Alpine Pass]] — the mountain pass itself
+- [[Wardline Threshold]] — outer protective magic boundary
+- [[Misty Descent]] — slope below the Wardline transitioning to wetland atmosphere
+- [[Inner Ramparts]] — adjacent inner ring (rampart belt below [[Lastmark]])
+- [[Glacial Stream Crossing]] — alpine-rampart transit landmark in [[Inner Ramparts]] above
+- [[Valley Edge Overlook]] — landmark at [[Misty Descent]]'s lower terminus in [[Southwestern Mystic Wetlands]]

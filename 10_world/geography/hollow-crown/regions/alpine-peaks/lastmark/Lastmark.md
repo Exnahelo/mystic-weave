@@ -5,16 +5,18 @@ aliases: [the border fort, the realm's gate, the high fort]
 tags: [drakenvale, lastmark, settlement, border-fort, inner-ramparts, ward-controlled, dragon-guard, military, carved-stone, sstc-customs, sanctioned-entry]
 vault_id: lastmark
 region: "[[Hollow Crown]]"
-parent_location: "[[Inner Ramparts]]"
+parent_location: "[[Alpine Peaks]]"
 ---
 
 # Lastmark
 
-**The realm's border fort and ward-controlled entry point**, carved directly into the mountain face at the [[Hollow Crown]]'s high approach. Walls cut from the living stone rise in tiered courses above the outer ramparts, **and the single sanctioned road into the kingdom passes beneath arched wardstones that no one crosses unsanctioned**. Lastmark is military first, civic second — the [[Dragon Guard]] garrisons heavily here, the [[Wardens]] coordinate anomaly response from here, and the [[Silver Scale Trading Company|SSTC]]'s inbound caravans are processed through the fort's customs halls before descending into the realm proper. **Its population is working and disciplined, its pace is steady, and its walls have never been taken.**
+**The realm's border fort and ward-controlled entry point**, carved directly into the mountain face at the [[Hollow Crown]]'s high approach within the [[Alpine Peaks]]. Walls cut from the living stone rise in tiered courses above the outer ramparts, **and the single sanctioned road into the kingdom passes beneath arched wardstones that no one crosses unsanctioned**. Lastmark is military first, civic second — the [[Dragon Guard]] garrisons heavily here, the [[Wardens]] coordinate anomaly response from here, and the [[Silver Scale Trading Company|SSTC]]'s inbound caravans are processed through the fort's customs halls before descending into the realm proper. **Its population is working and disciplined, its pace is steady, and its walls have never been taken.**
+
+Lastmark sits at **the realm's only viable mountain pass** — the [[Alpine Pass]] crossing through the outer crater rim. **There is essentially one way into the [[Hollow Crown]] physically, and it passes through here.** This singular geography shapes everything about the fort's strategic position and explains [[Eryndor the Radiant|Eryndor]]'s nearby [[Eryndors Lair|Lair]] placement.
 
 ## Scene texture
 
-Lastmark is built into the mountain itself. **The walls are not built walls — they are carved walls**, shaped from the living stone of the [[Inner Ramparts]] escarpment in tiered courses that rise from the outer approach road to the upper garrison levels. The effect, from outside, is **of the mountain itself having decided to present a fortress face to anyone approaching**. The structural joints are minimal. The architecture is austere, functional, and visibly unyielding.
+Lastmark is built into the mountain itself. **The walls are not built walls — they are carved walls**, shaped from the living stone of the [[Alpine Peaks]] in tiered courses that rise from the outer approach road to the upper garrison levels. The effect, from outside, is **of the mountain itself having decided to present a fortress face to anyone approaching**. The structural joints are minimal. The architecture is austere, functional, and visibly unyielding.
 
 ### Approach
 
@@ -42,7 +44,7 @@ The population is working. **Soldiers form the largest group** — [[Dragon Guar
 
 ### The view
 
-The view from the upper levels is **spectacular**. On clear days, a visitor standing at the uppermost garrison observation platform can see outward across the mountain ranges beyond the realm — terrain whose external geography is beyond the realm's ordinary scope — **and inward, downward, across the whole [[Inner Ramparts]] descent toward the distant glimpse of the [[Hollow Crown]]'s central basin**. **Lastmark is the realm's high threshold in altitude as well as function.**
+The view from the upper levels is **spectacular**. On clear days, a visitor standing at the uppermost garrison observation platform can see outward across the mountain ranges beyond the realm — terrain whose external geography is beyond the realm's ordinary scope — **and inward, downward, across the [[Inner Ramparts]] descent toward the distant glimpse of the [[Hollow Crown]]'s central basin**. **Lastmark is the realm's high threshold in altitude as well as function.**
 
 ## The supply elevator
 
@@ -96,7 +98,7 @@ The Chief Ward-Keeper is typically a **senior specialist with both [[Arcane Cons
 
 Lastmark is accessible to **sanctioned travelers** through the outer gates. Realm residents with legitimate business ([[Silver Scale Trading Company|SSTC]] crews, military personnel on rotation, diplomatic staff, senior officials, and the occasional authorized visitor) pass in and out routinely. Foreign visitors arrive through the ward-sanctioned approach and are processed at the customs halls before any further access is granted.
 
-**Unsanctioned approach does not reach Lastmark.** The ward system turns back anyone attempting unauthorized entry; the outer gates are a symbolic threshold, **but the wardstones are the operational one, and they have never been breached**. Internal travel from Lastmark down into the realm is unrestricted for residents; inbound caravans follow the main road southeastward through the [[Inner Ramparts]] toward [[Stonemark]], and from there into the central basin.
+**Unsanctioned approach does not reach Lastmark.** The [[Wardline Threshold]] outside the fort is the realm's first defense — its deterrence turns back unauthorized travelers before they reach the gates. **For sanctioned travelers who do reach the gates, the wardstones are the operational threshold, and they have never been breached.** Internal travel from Lastmark down into the realm is unrestricted for residents; inbound caravans follow the main road southeastward through the [[Inner Ramparts]] toward [[Stonemark]], and from there into the central basin.
 
 The elevator is restricted. **Authorized personnel and freight movements only.** Travelers asking to use it are politely redirected to the road.
 
@@ -109,16 +111,14 @@ The elevator is restricted. **Authorized personnel and freight movements only.**
 
 ## Connected nodes
 
-- [[Inner Ramparts]] — regional parent
-- [[Alpine Peaks]] — outer wilderness beyond the fort's ward threshold
+- [[Alpine Peaks]] — regional parent
+- [[Alpine Pass]] — the mountain pass the fort controls
+- [[Wardline Threshold]] — first-line magical defense above the fort
+- [[Inner Ramparts]] — adjacent inner ring; rampart belt below the fort
 - [[Stonemark]] — southward neighbor along the rampart descent
-- [[Eryndors Lair|Eryndor's Lair]] — nearby Council dragon residence
+- [[Eryndors Lair|Eryndor's Lair]] — nearby [[Draconic Council|Council]] dragon residence
 - [[Stronghold of Drakenvale]] — central command authority
 - [[Drakenvale City]] — Administrative Quarter coordination
 - [[Dragon Guard]] — primary garrison force
 - [[Wardens]] — anomaly-response coordination
 - [[Silver Scale Trading Company]] — customs partner
-
-## Vault reconciliation note
-
-Per geography canon, Lastmark sits at cell **C5**, terrain `I` (Inner Ramparts). Source world vault places this file under `surface/alpine_peaks/lastmark/`, but the canonical geography places Lastmark in the [[Inner Ramparts]] zone. This user-vault location reflects geography canon. **Reconciliation pending in the source vault** — a future authoring pass may want to move the source file or accept the geography-vs-vault structural divergence as a known authoring choice.
