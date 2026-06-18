@@ -9,7 +9,9 @@ tags: [magic, nine-fields, cosmology, draconic-embodiment]
 
 ## Definition
 
-The Nine Magical Fields are the structured forms through which magic in its present age expresses itself. Each field is a distinct mode of magical operation with characteristic shapes, costs, and risks. They emerged — or awoke — in [[The Cataclysm]]. Before the impact, dragons commanded only sparks of magical ability; the modern spectrum of fields entered the world (or woke within it) when the falling star struck.
+The Nine Magical Fields are the structured forms through which magic in its present age is worked, taught, and classified. Each field is a distinct mode of magical operation with characteristic shapes, costs, and risks. The nine-fold structure is the dominant framework for understanding magic across the world, descended from draconic tradition; whether it is the true architecture of magic or simply the most widely held way of cutting it is itself disputed (see *Variants and disputes* below).
+
+The fields became the operative shape of magic with [[The Cataclysm]]. Before the impact, dragons commanded only sparks of innate power; the structured spectrum began when the falling star struck. That magic in its present form began with the Cataclysm is settled; by what mechanism the Cataclysm produced it is disputed and catalogued at [[Origin of Magic]].
 
 ## The Nine Fields
 
@@ -52,11 +54,16 @@ Note that fields are not exclusive — multiple dragons can embody the same fiel
 
 ## Variants and disputes
 
-Whether magic is foreign to the world (carried in by [[The Cataclysm]]) or native to the world (awakened by the impact) is the oldest unsettled dispute about the fields. Some traditions hold magic is celestial intrusion — a gift or contamination depending on the teller. Others hold the world has always been magical and the impact only stripped away the silence that hid it. The dispute is permanent; no one walking the world can resolve it.
+The origin of the fields' magic — how the Cataclysm produced it — is not argued here; that dispute lives at [[Origin of Magic]]. The dispute proper to the fields is different: whether the nine-fold structure is the true architecture of magic, or the dominant *classification* of it.
+
+The nine fields are draconic in origin — the way dragons embody magic, and the way draconic-derived institutions teach it — and that framing has become near-universal through Drakenvale's reach and the authority of the [[Hall of Scales]] and [[Arcane Conservatory]]. But a classification is not the thing classified. The underlying magic is one substrate; the nine fields are the dominant way of cutting it, not necessarily the only true one. Other traditions may divide the same magic differently — fewer categories, more, or along entirely different seams — and hold their own cut to be the more honest.
+
+This is a dispute of map, not of mechanics. A working behaves the same regardless of which tradition's name is laid over it; what varies is how cultures bound, group, and teach the same underlying power. No society currently established in canon practices an alternative classification, but the nine-field framework is not foreclosed as the only possible one — the space for divergent magical traditions is deliberately left open.
 
 ## Connections
 
-- [[The Cataclysm]] — the event that produced or revealed the fields
+- [[The Cataclysm]] — the event the fields began with (the settled timing)
+- [[Origin of Magic]] — the contested question of how the fields' magic came to be
 - [[Heartstone]] — binds all nine fields into a single focus
 - [[Dragons]] — the beings whose maturity is measured by field embodiment
 - [[Draconic Maturity]] — the framework relating age to field count
@@ -66,3 +73,4 @@ Whether magic is foreign to the world (carried in by [[The Cataclysm]]) or nativ
 - Whether non-draconic beings have ever embodied fields innately
 - Whether new fields could emerge or existing fields disappear
 - The exact mechanism of inheritance for [[Drakari]] — affinity is passed, but with what variability?
+- Whether any non-draconic tradition's classification of magic will enter canon, and how its categories would map onto the nine fields
