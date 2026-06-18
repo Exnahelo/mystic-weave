@@ -14,23 +14,27 @@ The Cataclysm is the world-defining break between the old world and the new. A g
 
 ## The wider event
 
-Before the Cataclysm, the world belonged to mortal peoples and ancient dragons, with little of the living magic known today. The world was old, mortal, and largely unenchanted. Humans lived across it in many early cultures. Dragons existed already, ancient and mysterious. The world had wonder, but not the kind of widespread transformative magic that would later define history.
+Before the Cataclysm, the world belonged to human peoples and ancient dragons, with little of the living magic known today. Humans lived across it in many early cultures: coastal, mountain, river, steppe, valley, and others now lost or transformed. Dragons existed already, ancient and mysterious, and some bore sparks of innate power whose origin no one could explain. The world had wonder, but not the widespread, structured, transformative magic that would later define history.
 
-Then the ruinous star fell. It was not merely a meteor, but a body pulling with it strange matter, lesser celestial bodies, and things that did not belong to the mortal world. Among those caught in its wake were the beings who would become the [[Elves]].
+Then the ruinous star fell. It was not merely a falling stone, but a celestial body pulling with it strange matter, lesser fragments, and things that did not belong to the mortal world. Among those caught in its wake were the beings who would become the [[Elves]].
 
-When the great body struck, the land burned. The sky failed. The world entered an age of death, fallout, and long devastation. The impact did not only destroy; it broke open the world and seeded it with transformative magic. Fragments fell elsewhere. Some lands were scarred, some altered, some poisoned, and some strangely awakened.
+When the great body struck, the land burned. The sky failed. The world entered an age of death, fallout, and long devastation. The impact did not only destroy; with it the age of modern magic began, and the conditions of life changed thereafter. Fragments fell elsewhere. Some lands were scarred, some altered, some poisoned, and some strangely awakened.
 
 ## The elven sacrifice
 
-The star-borne beings, still not yet wholly of the world, looked upon the dying land and gathered their power together. They spent their celestial nature to steady life, heal the wound where they could, and keep the world from falling fully into ruin. That act cost them their immortality. They became mortal, though long-lived, and from then on they were the elves: no longer pure beings of starlight, but a people of memory, grief, beauty, and stewardship.
+The star-borne beings, still not yet wholly of the world, chose to spend their celestial nature to steady the dying land. That choice is the founding fact of their mortal existence — freely made, and not in question. What is uncertain is the act itself. The transformation was violent enough, and the loss great enough, that the survivors carried only scattered and broken memories of how it happened: whether it was a single chosen moment, a desperate convergence of many, or a ritual now remembered only in fragments. The elves do not fully know their own founding from the inside.
 
-Where their power pooled most deeply, life returned first. The first great restoration sites became the cradle-places of later sacred lands. In the Hollow Crown, that primal act of healing gave rise to the oldest life-bearing sanctuaries.
+What is settled is the result: their immortality was lost, their celestial form was spent, and the survivors became mortal, though long-lived. From then on they were the elves — no longer pure beings of starlight, but a people of memory, grief, beauty, and stewardship.
+
+Later elven societies rose on whatever the founding survivors made of those fragments. Among the [[Elves]] of the [[Feywood]] — descended from a single survivor-group — the account is definitive and held without doubt. Elsewhere, where different survivors reached different conclusions from different fragments, the founding may be remembered very differently. The shape of those other elven traditions is open ground.
 
 ## Origin of magic
 
-Before the Cataclysm, dragons bore only sparks of magical ability — a hot breath, a hide that resisted blade, an unease in the air around them. There were no fields, no embodiments, no sovereign mastery.
+Before the Cataclysm, dragons bore only sparks of innate power. One dragon might breathe flame; another might stir growth in wounded land; another might carry an unease in the air around it or a hide that resisted blade. These workings were rare, limited, and personal. There were no fields, no embodiments, no sovereign mastery, and humans had no meaningful magic. The source of those draconic sparks remains unknown.
 
-When the ruinous star fell, magic in its present form — structured, embodied, expressible through the [[Nine Magical Fields]] — entered the world, or woke within it. Whether the meteor brought magic from outside, or whether it shocked something already sleeping in the world's bones, is unsettled and unsettlable. The dispute is old. It will not be resolved by anyone walking the world today.
+When the ruinous star fell, modern magic began. Magic in its present form — structured, transmissible, embodied, and expressible through what later traditions classify as the [[Nine Magical Fields]] — began with the Cataclysm. What remains disputed is not the timing, but the mechanism: whether the star carried magic, released it, awakened something capable of receiving it, served as the instrument of divine will, or became the occasion for elven sacrifice to shape what had arrived.
+
+The competing accounts of magic's origin are catalogued at [[Origin of Magic]].
 
 ## Memory across peoples
 
@@ -55,5 +59,5 @@ Different peoples remember the Cataclysm differently. See:
 
 ## Open questions
 
-- The [[Unchanged]] is associated with the meteor's wake but not part of the elven sacrifice. Its origin is uncertain.
-- Whether magic was carried in the meteor or awakened in the world is permanently disputed.
+- [[The Unchanged]] is associated with the meteor's wake but not part of the elven sacrifice. Its origin is uncertain.
+- The mechanism by which the Cataclysm produced magic — carried, awakened, released through the wound, divinely sent, or shaped by elven sacrifice — is permanently disputed; see [[Origin of Magic]].
