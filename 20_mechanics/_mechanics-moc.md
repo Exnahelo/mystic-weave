@@ -11,7 +11,6 @@ Top-level entry point into `20_mechanics/`.
 
 - [[mw_vision]]
 - [[mw_design_problem]]
-- [[NEXT]] — concise re-entry point and immediate TODO
 
 ## Analysis
 
